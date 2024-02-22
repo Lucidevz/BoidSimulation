@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\BoidSimulation.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BoidSimulation.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\BoidSimulationEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\BoidSimulation">
+      <UniqueIdentifier>{EFC58B78-C7A5-3651-AD9C-AC75ECCE6E83}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\BoidSimulation\Boid.cpp">
+      <Filter>Source\BoidSimulation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BoidSimulation\Boid.h">
+      <Filter>Source\BoidSimulation</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BoidSimulation\BoidManager.cpp">
+      <Filter>Source\BoidSimulation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BoidSimulation\BoidManager.h">
+      <Filter>Source\BoidSimulation</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BoidSimulation\BoidOctTree.cpp">
+      <Filter>Source\BoidSimulation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BoidSimulation\BoidOctTree.h">
+      <Filter>Source\BoidSimulation</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\BoidSimulation\BoidSimulation.Build.cs">
+      <Filter>Source\BoidSimulation</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\BoidSimulation\BoidSimulation.cpp">
+      <Filter>Source\BoidSimulation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BoidSimulation\BoidSimulation.h">
+      <Filter>Source\BoidSimulation</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BoidSimulation\BoidThread.cpp">
+      <Filter>Source\BoidSimulation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BoidSimulation\BoidThread.h">
+      <Filter>Source\BoidSimulation</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BoidSimulation\Bullet.cpp">
+      <Filter>Source\BoidSimulation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BoidSimulation\Bullet.h">
+      <Filter>Source\BoidSimulation</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BoidSimulation\CameraRotator.cpp">
+      <Filter>Source\BoidSimulation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BoidSimulation\CameraRotator.h">
+      <Filter>Source\BoidSimulation</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BoidSimulation\Obstacle.cpp">
+      <Filter>Source\BoidSimulation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BoidSimulation\Obstacle.h">
+      <Filter>Source\BoidSimulation</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BoidSimulation\OctTree.cpp">
+      <Filter>Source\BoidSimulation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BoidSimulation\OctTree.h">
+      <Filter>Source\BoidSimulation</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

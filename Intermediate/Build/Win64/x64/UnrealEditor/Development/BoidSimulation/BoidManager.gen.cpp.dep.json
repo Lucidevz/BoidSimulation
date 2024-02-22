@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\lukem\\documents\\uog\\level 5\\assignment-2-s4203133\\boidsimulation\\intermediate\\build\\win64\\unrealeditor\\inc\\boidsimulation\\uht\\boidmanager.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\lukem\\documents\\uog\\level 5\\assignment-2-s4203133\\boidsimulation\\intermediate\\build\\win64\\x64\\boidsimulationeditor\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\users\\lukem\\documents\\uog\\level 5\\assignment-2-s4203133\\boidsimulation\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\boidsimulation\\definitions.boidsimulation.h",
+            "c:\\users\\lukem\\documents\\uog\\level 5\\assignment-2-s4203133\\boidsimulation\\source\\boidsimulation\\boidmanager.h",
+            "c:\\users\\lukem\\documents\\uog\\level 5\\assignment-2-s4203133\\boidsimulation\\intermediate\\build\\win64\\unrealeditor\\inc\\boidsimulation\\uht\\boidmanager.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BoidSimulation",
+			"Path": "..\\Source\\BoidSimulation.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BoidSimulationEditor",
+			"Path": "..\\Source\\BoidSimulationEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
